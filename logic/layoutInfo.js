@@ -154,7 +154,7 @@ var layoutMaps = {
 		'Slash' : '!',
 		'shiftLayer' : 'default',
 	},
-	azerty : {
+	aptmak : {
 		'Minus' : "-",
 		'Equal' : "=",
 		'KeyQ' : "V",
