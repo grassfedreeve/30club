@@ -177,7 +177,7 @@ var layoutMaps = {
 		'KeyG' : 'k',
 		'KeyH' : 'x',
 		'KeyJ' : 'n',
-		'KeyK' : 's',
+		'KeyK' : 'a',
 		'KeyL' : 'i',
 		'Semicolon' : 'o',
 		'Quote' : ";",
