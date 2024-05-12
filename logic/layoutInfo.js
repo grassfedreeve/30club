@@ -34,7 +34,7 @@ levelDictionaries = {
 		'lvl3' : 'fbjy',
 		'lvl4' : 'mgpk',
 		'lvl5' : 'clou',
-		'lvl6' : 'xwzv',
+		'lvl6' : 'xwzvq',
 		'lvl7' : alphabet,
 	},
 	colemak : {
@@ -234,7 +234,7 @@ var layoutMaps = {
 		'KeyC' : 'g',
 		'KeyV' : 'd',
 		'KeyB' : 'q',
-		'KeyN' : 'e',
+		'KeyN' : 'v',
 		'KeyM' : 'm',
 		'Comma' : ',',
 		'Period' : '.',
