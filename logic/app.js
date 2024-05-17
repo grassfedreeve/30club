@@ -598,6 +598,33 @@ function updateLayoutUI() {
 			layoutMaps.canary.KeyT = 'b';
 			layoutMaps.canary.KeyU = 'f';
 			break;
+		case 'hummingird':
+			document.querySelector('.cheatsheet').innerHTML = hummingbirdDivs;
+			layoutMaps.colemakdh.KeyZ = 'z';
+			layoutMaps.colemakdh.KeyX = 'x';
+			layoutMaps.colemakdh.KeyC = 'c';
+			layoutMaps.colemakdh.KeyV = 'd';
+			layoutMaps.colemakdh.KeyB = 'v';
+
+			layoutMaps.tarmakdh.KeyZ = 'z';
+			layoutMaps.tarmakdh.KeyX = 'x';
+			layoutMaps.tarmakdh.KeyC = 'c';
+			layoutMaps.tarmakdh.KeyV = 'd';
+			layoutMaps.tarmakdh.KeyB = 'v';
+			levelDictionaries.tarmakdh.lvl1 = 'qwagzxc';
+			levelDictionaries.tarmakdh.lvl3 = 'ftbv';
+
+			layoutMaps.canary.KeyZ = 'q';
+			layoutMaps.canary.KeyX = 'j';
+			layoutMaps.canary.KeyC = 'v';
+			layoutMaps.canary.KeyV = 'd';
+			layoutMaps.canary.KeyB = 'k';
+			layoutMaps.canary.KeyN = 'x';
+			layoutMaps.canary.KeyG = 'g';
+			layoutMaps.canary.KeyH = 'm';
+			layoutMaps.canary.KeyT = 'b';
+			layoutMaps.canary.KeyU = 'f';
+			break;
 	}
 
 	// if custom input is selected, show the ui for custom keyboards
