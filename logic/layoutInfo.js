@@ -230,7 +230,7 @@ var layoutMaps = {
 		'Semicolon' : 'a',
 		'Quote' : ";",
 		'KeyZ' : 'q',
-		'KeyX' : 'c',
+		'KeyX' : 'w',
 		'KeyC' : 'm',
 		'KeyV' : 'g',
 		'KeyB' : 'v',
