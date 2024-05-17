@@ -214,7 +214,7 @@ var orthoDivs = `
 	</div>
 `;
 
-var 30Divs = `
+var hummingbirdDivs = `
 	<div class=row>
 		<div class="twou"><span class="letter"></span></div>
 		<div class="key" id='KeyZ'><span class="letter"></span></div>
