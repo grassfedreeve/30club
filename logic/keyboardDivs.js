@@ -253,17 +253,13 @@ var hummingbirdDivs = `
 	</div>
 	<div class=row>
 		<div class="twou"><span class="letter"></span></div>
-		<div class="key" id='KeyZ'><span class="letter"></span></div>
 		<div class="key" id='KeyX'><span class="letter"></span></div>
 		<div class="key" id='KeyC'><span class="letter"></span></div>
 		<div class="key" id='KeyV'><span class="letter"></span></div>
-		<div class="key" id='KeyB'><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
-		<div class="key" id='KeyN'><span class="letter"></span></div>
 		<div class="key" id='KeyM'><span class="letter"></span></div>
 		<div class="key" id='Comma'><span class="letter"></span></div>
 		<div class="key" id='Period'><span class="letter"></span></div>
-		<div class="key" id='Slash'><span class="letter"></span></div>
 		<div class="twou"><span class="letter"></span></div>
 	</div>
 	<div class=row>
@@ -274,7 +270,7 @@ var hummingbirdDivs = `
 		<div class="key"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
-		<div class="key"><span class="letter"></span></div>
+		<div class="key" id="Slash"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
 		<div class="key"><span class="letter"></span></div>
 		<div class="oneu"><span class="letter"></span></div>
