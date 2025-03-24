@@ -14,9 +14,9 @@ levelDictionaries = {
 		'lvl1' : 'rsthneia',
 		'lvl2' : 'pm',
 		'lvl3' : 'dbwl',
-		'lvl4' : 'kylx',
-		'lvl5' : 'yufg',
-		'lvl6' : 'zqv',
+		'lvl4' : 'kyox',
+		'lvl5' : 'cufg',
+		'lvl6' : 'zqvj',
 		'lvl7' : alphabet,
 	},
 	azerty : {
