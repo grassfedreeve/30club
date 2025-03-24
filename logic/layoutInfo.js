@@ -10,7 +10,7 @@ levelDictionaries = {
 		'lvl6' : 'zqv',
 		'lvl7' : alphabet,
 	},
-	manu : {
+	aptmanu : {
 		'lvl1' : 'rsthneia',
 		'lvl2' : 'pm',
 		'lvl3' : 'dbwl',
@@ -211,7 +211,7 @@ var layoutMaps = {
 		'Slash' : '!',
 		'shiftLayer' : 'default',
 	},
-	manu : {
+	aptmanu : {
 		'Minus' : "-",
 		'Equal' : "=",
 		'KeyQ' : "q",
