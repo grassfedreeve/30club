@@ -235,7 +235,7 @@ var layoutMaps = {
 		'KeyH' : 'x',
 		'KeyJ' : 'n',
 		'KeyK' : 'e',
-		'KeyL' : 'e',
+		'KeyL' : 'a',
 		'Semicolon' : 'i',
 		'Quote' : ";",
 		'KeyZ' : 'z',
