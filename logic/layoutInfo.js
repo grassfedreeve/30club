@@ -696,7 +696,7 @@ var layoutMaps = {
 		'Slash' : '.',
 		'shiftLayer' : 'default',
 	},
-		aptmak : {
+	night : {
 		'Minus' : "-",
 		'Equal' : "=",
 		'KeyQ' : "v",
@@ -775,5 +775,6 @@ var layoutMaps = {
 		'shiftLayer' : 'default',
 	},
 }
+
 
 
