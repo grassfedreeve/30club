@@ -728,7 +728,7 @@ var layoutMaps = {
 		'KeyC' : 'x',
 		'KeyV' : 'd',
 		'KeyB' : 'q',
-		'KeyN' : 'e',
+		'KeyN' : 'r',
 		'KeyM' : 'w',
 		'Comma' : ',',
 		'Period' : '.',
@@ -775,6 +775,7 @@ var layoutMaps = {
 		'shiftLayer' : 'default',
 	},
 }
+
 
 
 
