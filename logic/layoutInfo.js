@@ -118,6 +118,15 @@ levelDictionaries = {
 		'lvl6' : 'jqzx',
 		'lvl7' : alphabet,
 	},
+	night : {
+		'lvl1' : 'snhtrcaei',
+		'lvl2' : 'lo',
+		'lvl3' : 'kdgw',
+		'lvl4' : 'jmpy',
+		'lvl5' : 'fbxu',
+		'lvl6' : 'zqv',
+		'lvl7' : alphabet,
+	},
 	custom : {
 		'lvl1' : '',
 		'lvl2' : '',
@@ -727,3 +736,4 @@ var layoutMaps = {
 		'shiftLayer' : 'default',
 	},
 }
+
