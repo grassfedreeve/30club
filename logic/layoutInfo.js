@@ -251,7 +251,7 @@ var layoutMaps = {
 		'Minus' : "-",
 		'Equal' : "=",
 		'KeyQ' : "v",
-		'KeyW' : 'b',
+		'KeyW' : 'w',
 		'KeyE' : 'd',
 		'KeyR' : 'y',
 		'KeyT' : 'p',
@@ -275,8 +275,8 @@ var layoutMaps = {
 		'Semicolon' : 'i',
 		'Quote' : ";",
 		'KeyZ' : 'z',
-		'KeyX' : 'w',
-		'KeyC' : 'g',
+		'KeyX' : 'g',
+		'KeyC' : 'b',
 		'KeyV' : 'f',
 		'KeyB' : 'j',
 		'KeyN' : 'r',
@@ -919,6 +919,7 @@ var layoutMaps = {
 		'shiftLayer' : 'default',
 	},
 }
+
 
 
 
