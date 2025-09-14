@@ -263,8 +263,8 @@ var layoutMaps = {
 		'BracketLeft' : '(',
 		'BracketRight' : ')',
 		'Backslash' : '\\',
-		'KeyA' : 'c',
-		'KeyS' : 's',
+		'KeyA' : 's',
+		'KeyS' : 'c',
 		'KeyD' : 't',
 		'KeyF' : 'h',
 		'KeyG' : 'k',
@@ -919,6 +919,7 @@ var layoutMaps = {
 		'shiftLayer' : 'default',
 	},
 }
+
 
 
 
